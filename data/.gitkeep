@@ -1,0 +1,5 @@
+# Data
+
+This folder contains the dataset used in the insurance data protection project.
+
+- `insurance_us.csv`: Insurance customer dataset used for the analysis.
