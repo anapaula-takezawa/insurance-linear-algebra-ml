@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="insurance_data_protection_cover_1280x640.jpg"
+       alt="Insurance Data Protection — Linear Algebra & Machine Learning"
+       width="100%">
+</p>
+
 # Insurance Data Protection — Linear Algebra & Machine Learning
 
-**Author:** Ana Paula Takezawa
+**Author:** Ana Paula Takezawa                
 **Program:** MBA in Data Science & Artificial Intelligence — TripleTen Brasil  
 **Field:** Data Science | Machine Learning | Linear Algebra  
 **Technologies:** Python | Pandas | NumPy | Scikit-learn | Matplotlib | Seaborn  
